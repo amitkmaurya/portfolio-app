@@ -80,7 +80,7 @@ function Portfolio() {
                 <span className="orange montserrat">Designer</span> from India
               </h1>
 
-              <a href="/images/updated-resume.pdf" download="Amit Kumar Resume">
+              <a href="/images/updated-resume.pdf" target="_blank" rel="noreferrer">
                 <div className="download-resume">Resume</div>
               </a>
             </div>  

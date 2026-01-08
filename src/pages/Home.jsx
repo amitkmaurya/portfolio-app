@@ -51,7 +51,7 @@ function Home() {
 
       <div className="portfolio-link">
         <Link to="/portfolio">My Portfolio</Link>
-        <a href="/images/updated-resume.pdf" download="Amit Kumar Resume">
+        <a href="/images/updated-resume.pdf" target="_blank" rel="noreferrer" >
           <div className="download-resume">My Resume</div>
         </a>
       </div>
