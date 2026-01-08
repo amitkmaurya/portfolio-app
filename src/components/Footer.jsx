@@ -25,7 +25,7 @@ function Footer() {
             </a>
 
              <a href="https://wa.me/919939522297" target="_blank" rel="noreferrer">
-              <img src="/images/whatsapp.svg" alt="WhatsApp" />
+              <img src="/images/whatsapp1.svg" alt="WhatsApp" />
             </a>
 
             <a
