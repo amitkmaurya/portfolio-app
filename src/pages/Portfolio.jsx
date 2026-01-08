@@ -55,7 +55,7 @@ function Portfolio() {
               <model-viewer
                 className="model"
                 alt="laptop"
-                src="/images/laptop.glb"
+                src="/images/laptop.gif"
                 shadow-intensity="0"
                 camera-controls
                 touch-action="pan-y"

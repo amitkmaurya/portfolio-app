@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Footer() {
   return (
     <section className="footer" id="footer">
@@ -42,7 +44,7 @@ function Footer() {
           {/* FOOTER NAV */}
           <div className="footer-nav-links">
             <a href="#about-me">About</a>
-            <a href="/contact_me.html">Contact</a>
+            <Link to="/Contact">Contact Us</Link>
           </div>
         </div>
       </div>
