@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="footer-container">
           {/* LOGO */}
-          <a href="/portfolio.html">
+          <a href="#">
             <img
               className="logo-footer"
               src="/images/logo.png"
@@ -44,7 +44,7 @@ function Footer() {
           {/* FOOTER NAV */}
           <div className="footer-nav-links">
             <a href="#about-me">About</a>
-            <Link to="/Contact">Contact Us</Link>
+            <Link to="/Contact">Contact</Link>
           </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ function Portfolio() {
 
               <div className="links-container">
                 <a href="#about-me">About</a> 
-                <Link to="/contact">Contact Us</Link>
+                <Link to="/contact">Contact</Link>
               </div>
             </div>
           </nav>
